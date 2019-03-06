@@ -1,0 +1,10 @@
+cn\itrip\service\RegisterByPhoneService.class
+cn\itrip\controller\LoginController.class
+cn\itrip\controller\SwaggerConfig.class
+cn\itrip\service\TokenServiceImpl.class
+cn\itrip\test\TestDemo1.class
+cn\itrip\controller\TestRedis.class
+cn\itrip\service\LoginService.class
+cn\itrip\test\Animal.class
+cn\itrip\controller\RegisterByPhone.class
+cn\itrip\service\TokenService.class

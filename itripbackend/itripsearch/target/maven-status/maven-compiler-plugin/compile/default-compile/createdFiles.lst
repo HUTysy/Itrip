@@ -1,0 +1,3 @@
+cn\itrip\service\SearchHotelService.class
+cn\itrip\controller\SearchHotelController.class
+cn\itrip\dao\BaseQueryDao.class

@@ -1,0 +1,8 @@
+<#list l1 as Animal>
+<#if Animal.name=='小狗'>
+姓名：${Animal.name}
+价格：${Animal.price}
+<#else>
+不是一个小狗
+</#if>
+</#list>

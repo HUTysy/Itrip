@@ -1,0 +1,7 @@
+<html>
+<head></head>
+<body>
+    这是一个freemarker模板</br>
+    要替换的值=${v1}
+</body>
+</html>
